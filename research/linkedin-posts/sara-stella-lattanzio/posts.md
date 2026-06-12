@@ -1,6 +1,6 @@
 # LinkedIn posts — sara-stella-lattanzio
 
-- **Posts collected:** 4
+- **Posts collected:** 3
 - **Last updated:** 2026-06-12
 
 > Collected for research/analysis. Text belongs to the original author; links point to source.
@@ -28,13 +28,5 @@
 **Why it matters:** Hook de origen inesperado ('esa nena del disfraz dudoso de Minnie...') → caso de un agente de newsjacking (ventana de 24-48h para ser primero en LinkedIn) → CTA a newsletter. Gran ejemplo de hook que rompe el patrón + enseña timing y newsjacking.
 
 > That little girl in the questionable Minnie Mouse costume grew up to build an AI agent that outpaces most content teams and creators before breakfast. On LinkedIn, you're always days late. A story breaks on X, trends on Reddit, and by the time it hits your feed here, half your industry has already had the take. The window to be first is 24 to 48 hours, and most people miss it because finding the right story while it's still early means spending the first hour of every day scanning three platforms manually. Diandra Escobar built an agent to do it instead. It runs at 6 AM on OpenClaw, scrapes X, Google, and Reddit, and drops ready-to-edit drafts into Slack, each tagged with the source and the angle, before most people have opened their laptops. One draft from this workflow pulled 208K impressions for one of her clients. She had to ask ChatGPT what an API was to build it, so the fact that you're not technical is not an excuse nor a problem. Plus, on days you don't use the output to newsjack, it's still the best possible morning industry brief you could ask for. The latest issue of The Workflow includes three versions of Diandra's playbook, from the one you can set up today to the full agent running on a server. Since we don't know gatekeeping, every prompt and config file is included. 👉 Subscribe and make it yours at theworkflow.digital
-
----
-
-## Post 4 — unknown date
-**Source:** https://www.linkedin.com/posts/saralattanzio_linkedin-b2bmarketing-activity-7162789320884531201-l5dd
-**Why it matters:** LinkedIn + B2B marketing tactical post
-
-> _(post text not yet collected — paste it into the CSV)_
 
 ---

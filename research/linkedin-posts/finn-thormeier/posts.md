@@ -1,6 +1,6 @@
 # LinkedIn posts — finn-thormeier
 
-- **Posts collected:** 6
+- **Posts collected:** 4
 - **Last updated:** 2026-06-12
 
 > Collected for research/analysis. Text belongs to the original author; links point to source.
@@ -36,21 +36,5 @@
 **Why it matters:** Newsjacking (reacciona a la contratación del nuevo CPO de LinkedIn) + wishlist numerada que revela mecánica profunda de la plataforma (el botón reshare hunde el alcance, acceso a perfiles de ejecutivos, Thought Leader ads, feed de 'following', APIs de creator).
 
 > Linkedin just hired their new CPO Anthony Chavez for their Sales & Marketing solutions. If I had his hear, as someone who owes his career to Linkedin & helped 50+ B2B execs with their Linkedin presence, here's what I'd desperately want him to prioritize: 1. Find a way to get rid of / ban AI comments. 2. In a similar vein - community notes but for Linkedin. There is so much clickbait. One of the great things X did was introduce community notes so the community can self-regulate and call out obvious lies / fake claims. 3. Following feed. Give me the option to populate my feed with ONLY content posted by people I actually follow / am connected with. I know there are workarounds, but they're inelegant. 4. Allow Ad Manager and Sales Navigator (and Organic) to talk to each other, right now they feel like 2-3 separate silos. Some examples/ideas: - Ability to retarget an employee's content engagers. Say my CEO's post gets 300 likes - I'd like to be able to retarget those leads. - Similarly I'd like to be able to build a Sales Nav list based on employee content engagers (like you can already for profile visitors), but for the whole company. - Ability to build a target account list in Sales Navigator, review it, and then PUSH it into Ad Manager to build a custom audience with a 100% match rate. Would make a lot of ABM plays a lot easier. - Ability to push the most engaged accounts in Ad Manager into Sales Nav so I can filter it, and work those leads. This feels like the absolute highest leverage thing in a world where we talk about 'unified GTM' and 'marketing and sales need to collaborate more' - these tools should talk to each other too. 5. Dial it down on vertical video. What makes Linkedin special is that executives, CEOs, CMOs, CTOs of legit companies - and not just professional creators & influencers are creating content on this platform. They're not gonna do vertical videos, no matter how much you push them. 6. Executive profile access permissioning. Every single CEO I know, who is active on Linkedin, has *someone* from their team inside of their account. To help with posting, managing the inbox, etc. Yet it's somehow still against Linkedin's ToS. If you want companies to leverage their executive profiles for their marketing and brand strategy, make it easy and official and legal for team member to access parts of their exec's Linkedin. 7. Make the re-share button work. Everyone who knows Linkedin, knows not to use the reshare button because it absolutely tanks engagement. 8. Open access to the creator APIs. Would open up so much innovation (on your terms). I have a TON of ideas of tools I can build to streamline certain processes around creating on Linkedin, but most of the interesting APIs are still gated. What else? If all you do is #4, I'd be such a happy camper.
-
----
-
-## Post 5 — 2024-03-19
-**Source:** https://www.linkedin.com/posts/finnthormeier_if-i-was-hired-as-cmo-at-a-b2b-saas-doing-activity-7175825804264644608-emSg
-**Why it matters:** Day-1 founder-led demand gen program — the engine step by step
-
-> _(post text not yet collected — paste it into the CSV)_
-
----
-
-## Post 6 — unknown date
-**Source:** https://www.linkedin.com/posts/finnthormeier_b2b-saas-demandgen-activity-7049999251975614464-5bod
-**Why it matters:** Founder branding / thought leadership angle
-
-> _(post text not yet collected — paste it into the CSV)_
 
 ---

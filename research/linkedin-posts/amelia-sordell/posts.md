@@ -1,6 +1,6 @@
 # LinkedIn posts — amelia-sordell
 
-- **Posts collected:** 4
+- **Posts collected:** 3
 - **Last updated:** 2026-06-12
 
 > Collected for research/analysis. Text belongs to the original author; links point to source.
@@ -28,13 +28,5 @@
 **Why it matters:** Origin story de vulnerabilidad ('a los 19, 3 trabajos... a los 35, £3.8M posteando contenido') que construye hacia un CTA de evento. Liga explícitamente ingresos a postear consistentemente. Plantilla del formato historia-personal → CTA.
 
 > At 19, I was working 3 jobs. Had zero self-worth. And I was broke. At 22, I started my first business. It went bust after 2 years. I was still broke. At 30, I started again - with zero investment. At 35, I passed £3.8M in revenue… off the back of posting content online. Not because I'm special. Not because I got lucky. (Although, I wish more people were honest about how much that helps!) Because I realised every single thing holding me back came down to other people's opinions. What I should do with my career. What I should post online. What I should want. So I stopped waiting to be liked. Stopped asking for permission. Stopped playing small to make everyone else feel comfortable. And I chose myself. I learned how to sell. How to speak. How to build something that didn't need anyone else's approval to be successful. Most women waste their lives waiting: For a mentor. For a moment. For a man... Let me save you the suspense: no one is coming. No one is picking you. You have to pick yourself! The woman you dream of becoming, she's already in you. But you've got to choose her - daily. Because the moment you start choosing to be her… You already are. Amelia x If we haven't met, Hi my name's Amelia! I've built a following of 370k followers, $4million in revenue, and completely changed my life because I finally found the confidence to build my personal brand. On 8th July, I'm hosting a small, intimate 2 day retreat for women who are ready to stop hiding behind the business and start building a founder brand that actually helps build your business. But I'll be honest - this isn't for everyone. Building a real founder brand takes honesty, courage, consistency, and the willingness to be seen probably before you feel fully ready. If that sounds like you, there's only 6 sports, so let's get to work.
-
----
-
-## Post 4 — unknown date
-**Source:** https://www.linkedin.com/posts/ameliasordell_my-business-is-100-inbound-here-is-how-activity-6925002419986731008-zeb_
-**Why it matters:** 100% inbound from a personal brand — how-to breakdown
-
-> _(post text not yet collected — paste it into the CSV)_
 
 ---

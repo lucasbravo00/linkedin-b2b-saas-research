@@ -1,6 +1,6 @@
 # LinkedIn posts — emily-kramer
 
-- **Posts collected:** 4
+- **Posts collected:** 3
 - **Last updated:** 2026-06-12
 
 > Collected for research/analysis. Text belongs to the original author; links point to source.
@@ -28,13 +28,5 @@
 **Why it matters:** Explainer con escenarios codificados por emoji (cómo los LLMs crawlean distintos tipos de CMS) + cierre que invita al contraargumento. Tema AEO / descubribilidad de contenido — relevante para 'que tu contenido sea citable por IA'. Gran plantilla de post explicativo.
 
 > Here's the ironic thing about vibe-coded sites: AI builds them, but AI can't easily read them. When I was doing research on 100 company websites last month, I encountered so many sites that LLMs had trouble parsing. None of these were built on a traditional, all-in-one CMS. This made me very happy that our site is built on Framer, which makes AEO easier. I went down a rabbit hole and got a lesson in how websites work I thought I'd share: 😁 When an LLM crawls a traditional CMS site (like a site built on Framer): The content is already 'assembled' and the LLM receives HTML with all your content baked in headlines, paragraphs, FAQs, metadata. The LLM is happy; it loves HTML. Your site can be cited. ☹️ When an LLM crawls a vibe-coded site: The content likely isn't 'assembled.' The LLM receives a near-empty HTML page and a link to a JavaScript file that 'builds' the content. But, the LLM doesn't run JavaScript, so it can't build or read that content easily. The LLM is sad. Your site can't be cited. 😐 When an LLM crawls a headless CMS site (like one built on Sanity or Contentful): It depends on the front-end. The CMS itself stores data, not pages. A separate front-end builds the actual page. So the LLM can end up happy (like a traditional CMS) or sad (like a vibe-coded site). Now some vibe coding tools are making AEO improvements here… But if you are building a site that needs to scale, I'm still all in on traditional CMS for reasons like this. We are delighted with Framer and using their API via Claude to make fast updates. Headless CMS super fans, hit me with the counter argument.
-
----
-
-## Post 4 — unknown date
-**Source:** https://www.linkedin.com/posts/emilykramer_mkt1-newsletter-activity-6952674472080396288-8zBR
-**Why it matters:** The MKT1 Method — content principles & frameworks
-
-> _(post text not yet collected — paste it into the CSV)_
 
 ---

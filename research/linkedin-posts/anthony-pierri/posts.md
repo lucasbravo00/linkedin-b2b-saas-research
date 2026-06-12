@@ -1,6 +1,6 @@
 # LinkedIn posts — anthony-pierri
 
-- **Posts collected:** 5
+- **Posts collected:** 4
 - **Last updated:** 2026-06-12
 
 > Collected for research/analysis. Text belongs to the original author; links point to source.
@@ -36,13 +36,5 @@
 **Why it matters:** POV contrarian que liga positioning con producto (4 riesgos de Marty Cagan). Hook fuerte + 'casi nadie ve esto': enseñar provocando.
 
 > Your Product Managers may be silently destroying your ability to go-to-market effectively.Marty Cagan popularized the concept of four risks when creating a new product or feature: 1) value(will they buy it?)2) usability(can they use it?)3) feasibility(can we build it?)4) business viability(should we build it?)The fourth risk is often calculated... WITHOUT considering the impact on the product's existing positioning. Just because a MARKET for a feature exists, doesn't mean that your company can COMPETE in this market. So you can falsely come to the conclusion that a feature/feature-set passes the "viability" test, when in reality your business has no ability to win in that new market.But I find most product roadmap discussions miss this foundational truth all together! Nobody even realizes that supporting new use cases means entering completely new markets!Every use case has: → its own competitive alternatives→ its own required value framing→ its own demanded proof pointsJust because you CAN quickly spin up a new feature that solves a new use case... doesn't mean you SHOULD.And even though the product team SHOULD be highly connected to the GTM side of the business, it's just often not the case (especially in much larger orgs).
-
----
-
-## Post 5 — unknown date
-**Source:** https://www.linkedin.com/posts/anthonypierri_productmarketing-startups-b2b-activity-7255223937880530944-ftrU
-**Why it matters:** Positioning / product marketing breakdown
-
-> _(post text not yet collected — paste it into the CSV)_
 
 ---
