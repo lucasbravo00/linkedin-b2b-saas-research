@@ -50,10 +50,24 @@ Full annotations, links, and the coverage map are in [`research/sources.md`](res
 
 ## What was collected
 
+**Final corpus state (as of June 2026):**
+
+- **25 LinkedIn posts** (100% with full text) across **7 authors**: Anthony Pierri, Adam Robinson, Finn Thormeier, Amelia Sordell, Sara Stella Lattanzio, Emily Kramer, and Wes Kao. Posts stored in `research/linkedin-posts/<author>/posts.md`.
+- **4 YouTube transcripts** (~37,800 words total) from: Anthony Pierri (13,024 words), Adam Robinson (10,129 words), Dave Gerhardt (9,248 words), and Devin Reed (5,211 words). Transcripts stored in `research/youtube-transcripts/<author>/` with full timestamps and snippets.
+- **1 research reference**: Richard van der Blom's *Algorithm Insights Report 2025*, a data-driven analysis of LinkedIn algorithmic behavior based on 1.8M posts, stored in `research/other/richard-van-der-blom-algorithm-insights-report.md`.
+
+**Author representation:** All 10 experts are represented in the corpus:
+- 7 experts with LinkedIn posts
+- 2 additional experts with YouTube/video transcripts (Pierri and Robinson appear in both; Gerhardt and Reed video-only)
+- 1 expert with research reference (van der Blom)
+
+**Recency:** 9/10 experts have content from June 2026; Wes Kao's posts are from 2025 but are canonical and evergreen.
+
+**Organization:**
 - **`research/sources.md`** — the 10 experts with verified links, primary platforms, dates, and per-source "why chosen" annotations, plus a coverage map and an explicit "considered but excluded" section.
-- **`research/linkedin-posts/<author>/`** — their recent LinkedIn posts (text + metadata), one folder per author. Seeded with real post URLs to start from (see `scripts/seeds/linkedin_posts.csv`).
-- **`research/youtube-transcripts/<author>/`** — transcripts of relevant talks/podcasts/videos, fetched via the script. Seeded with real video URLs (see `scripts/seeds/youtube_videos.csv`).
-- **`research/other/`** — newsletters, podcast notes, and reference reports (e.g., van der Blom's Algorithm Insights Report) that aren't LinkedIn posts or YouTube videos.
+- **`research/linkedin-posts/<author>/`** — LinkedIn posts organized by author (one folder each). All collected via manual/assisted workflow (see `scripts/seeds/linkedin_posts.csv`).
+- **`research/youtube-transcripts/<author>/`** — transcripts fetched via the script (see `scripts/seeds/youtube_videos.csv`).
+- **`research/other/`** — newsletters, podcast notes, and reference reports that aren't LinkedIn posts or YouTube videos.
 
 ## How to use this repo
 
@@ -68,9 +82,9 @@ Full annotations, links, and the coverage map are in [`research/sources.md`](res
 - [x] Topic chosen and justified
 - [x] 10 experts found, vetted, and annotated (`sources.md`)
 - [x] Repo structure + collection scripts in place
-- [ ] LinkedIn posts collected per author
-- [ ] YouTube transcripts pulled per video
-- [ ] "Other" materials (reports, newsletters) gathered
+- [x] LinkedIn posts collected per author (25 posts, 7 authors)
+- [x] YouTube transcripts pulled per video (4 transcripts, ~37.8k words)
+- [x] "Other" materials (reports, newsletters) gathered (1 reference document)
 - [ ] Playbook outline drafted from the corpus
 
 ## Notes on method & ethics
