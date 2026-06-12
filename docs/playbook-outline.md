@@ -15,7 +15,7 @@
 ### Why Not Other Platforms?
 - Twitter: Incredibly competitive for B2B SaaS. LinkedIn is less crowded at founder level. (Adam Robinson, YouTube)
 - Instagram/TikTok: B2B audiences not present. Design/video creators dominate; no room for PMM thought leadership. (Pierri, YouTube)
-- YouTube: Untapped for B2B *if* you bring credibility, not YouTuber vibes. Takes 2–3 years for momentum. (Devin Reed, YouTube; Reed, post)
+- YouTube: Untapped for B2B *if* you bring credibility, not YouTuber vibes. Takes 2–3 years for momentum. (Devin Reed, YouTube)
 
 ### The Bar Is Extremely Low on LinkedIn
 - Most B2B content is low-effort, generic, or AI-generated B-minus slop.
@@ -38,7 +38,7 @@
 #### 1. **Spiky Opinion** (Contrarian POV)
 - Take widely-accepted advice and show why it's wrong (or wrong in specific contexts).
 - Examples:
-  - "Customers don't care about your product features" (common wisdom) vs. "They DO care—and you shouldn't hide features behind demos." (Pierri, post 4)
+  - "Customers don't care about your product features" (common wisdom) vs. "They DO care—and you shouldn't hide features behind demos." (Pierri, YouTube)
   - "Done is better than perfect" (conventional) vs. "Done is better IF execution quality hits the mark needed." (Kao, post 3)
 - Benefits: Creates discussion, memorable, makes you a guide. (Pierri, YouTube)
 - Source: Pierri & Rob on Fletch (YouTube): "Spiky opinions form the Fletch way of viewing the world. People either defend the old approach or nod and say 'huh, that makes sense.'"
@@ -153,7 +153,7 @@
 | **Numbered Framework** | 3–5 strategic options/steps with "choose if" criteria | Positioning, decision-making, broad audience | Pierri, post 1 |
 | **Teardown with Scoring** | Analyze real examples (homepages, pitch decks) on 0–5 scale | Product positioning, competitive analysis | Pierri, post 2 |
 | **Two-Option Messaging** | Position audience's dilemma: "Why AI?" vs. "Why OUR AI?" | Messaging nuance, market maturity | Pierri, post 3 |
-| **Contrarian POV** | Widely-accepted advice + why it's wrong/incomplete | Thought leadership, differentiation | Pierri, post 4; Kao, post 1 |
+| **Contrarian POV** | Widely-accepted advice + why it's wrong/incomplete | Thought leadership, differentiation | Pierri, YouTube; Kao, post 3 |
 | **Auto-Interview (YOU:/ME:)** | Self Q&A format handling objections | Product launches, defensiveness | Robinson, post 1 |
 | **Founder Playbook** | Numbered steps to achieve goal (5-step, 7-step, etc.) | Build-in-public, founder credibility | Robinson, post 2 |
 | **Origin Story / Vulnerability Arc** | Multi-act narrative of struggle → belief → action | Personal brand, founder relatability | Robinson, posts 3–5; Sordell, post 3 |
@@ -253,7 +253,7 @@
 - **Organic reach: down ~50%** year-over-year (2025 baseline)
 - **Engagement: down ~25%**
 - **Follower growth: down 59%**
-- **The trade-off:** Reach is lower BUT engagement is higher-quality. (van der Blom, Algorithm Report)
+- **The trade-off:** While raw reach is lower, algorithmic prioritization favors content that generates early engagement (van der Blom, Algorithm Report)
 
 ### Native Formats > External Links
 - **Document carousels (PDFs):** 6.60% engagement (highest of any format)
