@@ -1,13 +1,37 @@
 # LinkedIn posts — sara-stella-lattanzio
 
-- **Posts collected:** 1
-- **Last updated:** 2026-06-11
+- **Posts collected:** 4
+- **Last updated:** 2026-06-12
 
 > Collected for research/analysis. Text belongs to the original author; links point to source.
 
 ---
 
-## Post 1 — unknown date
+## Post 1 — 2026-06-12
+**Source:** https://www.linkedin.com/posts/saralattanzio_last-touch-attribution-is-like-giving-the-activity-7471180380616863745-GdYn
+**Why it matters:** Su ángulo central (content-led GTM / atribución): hook con analogía ('last touch = darle el crédito al mesero') + datos (92% ya tiene vendedor en mente; benchmarks LinkedIn) + tesis de dark social — el contenido orgánico construye preferencia aunque no cierre el deal.
+
+> Last touch attribution is like giving the waiter credit for the meal. 🍲 They're the last person you see before you pay, but that doesn't mean they cooked it. Most attribution models work exactly like this 👇 Google gets the click. Sales gets the meeting. Revenue gets assigned. Everyone celebrates the last touchpoint, ignoring everything that built the preference in the first place. 👀 92% of buyers already have a vendor in mind by the time they fill out a form. The decision was made in the background, through content, peer conversations, a ChatGPT search, a LinkedIn ad they scrolled past, or an organic post they read. 👀 A B2B buying journey averages dozens and dozens of touchpoints and most of them leave no trace in your CRM. I found some pretty insane stats in Factors.ai's last LinkedIn benchmark report that prove my point. 👀 Accounts exposed to LinkedIn content had: → 46% higher paid search conversion rates → 43% better SDR meeting-to-deal conversion → 112% lift in content marketing conversion (!!) The study explicitly mentions paid LinkedIn content, but I believe organic does even more heavy lifting that never gets the credit. 🥲 Some channels, like LinkedIn in this case, don't close deals directly. But try to remove them, and suddenly your best-performing channels start to collapse.
+
+---
+
+## Post 2 — 2026-06-09
+**Source:** https://www.linkedin.com/posts/saralattanzio_anthropic-is-giving-paid-users-double-cowork-activity-7470093561720500224-njHp
+**Why it matters:** Listicle táctico de 8 workflows de IA para content ops — newsjacking programado, brief de contenido desde llamadas de ventas, content audit, community listening. Ejemplo de 'newsjacking de producto + listicle accionable' para producción de contenido asistida por IA.
+
+> Anthropic is giving paid users double Cowork usage. This is your sign. 🌌 Use it to try Cowork for the tasks you've been doing in chat mode with extra steps, or the ones you've been hand-cranking because you assumed you'd need a developer to automate them. You can even test whether it mows your lawn. I make no promises, but you've got 2x usage until July 5, so the downside is limited. Jokes aside: yes, some of these workflows can be built with Claude Code. The difference is that Cowork doesn't require a terminal, making document workflows and automations much more accessible for non-techies. Here are 8 battle-tested workflows worth building while you have the credits: 📬 1/ Gmail newsletter digest Connect your inbox, filter by label, and have Cowork summarize the most relevant content from the week into a single email every Friday. 🗞️ 2/ Newsjacking drafts on a schedule Set it to run at 6am, research the latest news in your niche, and drop ready-to-edit LinkedIn post drafts into a folder before you open your laptop. 📊 3/ AI citation tracker Connect Peec AI, run a weekly check on where your brand shows up across ChatGPT, Perplexity, and Google AI Mode, then send the data wherever you can act on it. 🕵️ 4/ Competitor intel digest A Monday morning brief pulling from competitor URLs: new messaging, pricing changes, product launches, and website updates. 📁 5/ Sales call transcript → content brief Drop call recordings into a folder or connect your tool via MCP, have Cowork analyze the transcripts, pull recurring objections and buyer language, and turn them into a content brief. 💬 6/ Community listening summary Point it at Reddit threads and public forums where your ICP hangs out. Every week, it surfaces the questions people are actually asking. Significantly different from what keyword research suggests. 📈 7/ Weekly performance narrative Connect your analytics source via MCP, have Cowork pull last week's numbers, and write the 'so what' in plain language. A paragraph your CEO can read without a walkthrough. 🗂️ 8/ Content audit Export your content from your CMS or website, point Cowork at the files, and have it map what's been covered, what's repeated, and what's missing relative to your ICP. One honest caveat: Cowork runs on a schedule, but your laptop needs to be on. For most people, not a problem, since you have a life and occasionally sleep. How are you using your extra Cowork credits?
+
+---
+
+## Post 3 — 2026-06-08
+**Source:** https://www.linkedin.com/posts/saralattanzio_that-little-girl-in-the-questionable-minnie-activity-7469728816962367488-phDm
+**Why it matters:** Hook de origen inesperado ('esa nena del disfraz dudoso de Minnie...') → caso de un agente de newsjacking (ventana de 24-48h para ser primero en LinkedIn) → CTA a newsletter. Gran ejemplo de hook que rompe el patrón + enseña timing y newsjacking.
+
+> That little girl in the questionable Minnie Mouse costume grew up to build an AI agent that outpaces most content teams and creators before breakfast. On LinkedIn, you're always days late. A story breaks on X, trends on Reddit, and by the time it hits your feed here, half your industry has already had the take. The window to be first is 24 to 48 hours, and most people miss it because finding the right story while it's still early means spending the first hour of every day scanning three platforms manually. Diandra Escobar built an agent to do it instead. It runs at 6 AM on OpenClaw, scrapes X, Google, and Reddit, and drops ready-to-edit drafts into Slack, each tagged with the source and the angle, before most people have opened their laptops. One draft from this workflow pulled 208K impressions for one of her clients. She had to ask ChatGPT what an API was to build it, so the fact that you're not technical is not an excuse nor a problem. Plus, on days you don't use the output to newsjack, it's still the best possible morning industry brief you could ask for. The latest issue of The Workflow includes three versions of Diandra's playbook, from the one you can set up today to the full agent running on a server. Since we don't know gatekeeping, every prompt and config file is included. 👉 Subscribe and make it yours at theworkflow.digital
+
+---
+
+## Post 4 — unknown date
 **Source:** https://www.linkedin.com/posts/saralattanzio_linkedin-b2bmarketing-activity-7162789320884531201-l5dd
 **Why it matters:** LinkedIn + B2B marketing tactical post
 
