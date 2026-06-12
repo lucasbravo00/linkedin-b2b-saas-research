@@ -89,8 +89,15 @@ def fetch_fallback(url: str) -> str:
             "youtube-transcript-api not installed — run: pip install youtube-transcript-api"
         )
     vid = video_id_from_url(url)
-    chunks = YouTubeTranscriptApi.get_transcript(vid)
-    return " ".join(c["text"] for c in chunks)
+    api = YouTubeTranscriptApi()
+    transcript_obj = api.fetch(vid)
+    # Extract text from FetchedTranscript object
+    if hasattr(transcript_obj, 'snippets'):
+        chunks = transcript_obj.snippets
+        return " ".join(c.text for c in chunks)
+    else:
+        # Fallback for list format
+        return " ".join(c["text"] for c in transcript_obj)
 
 
 def slugify(text: str) -> str:
