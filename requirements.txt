@@ -1,0 +1,5 @@
+# Core
+requests>=2.31.0
+
+# Free fallback for YouTube transcripts (no API key needed)
+youtube-transcript-api>=0.6.2
