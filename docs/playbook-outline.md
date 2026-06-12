@@ -9,8 +9,8 @@
 
 ### The Founder Brand Thesis
 - **LinkedIn is the only platform where humans still drive buying decisions** in B2B. Until AI agents exclusively talk to AI agents, real people are involved in B2B buying. (Dave Gerhardt, transcript)
-- **Personal brands > company pages.** Company engagement is 10x lower than founder engagement. Employees are opt-in vs. push (inbound vs. reluctant). (Dave Gerhardt, YouTube; Adam Robinson, YouTube)
-- **The founder is the distribution engine.** Building a personal brand on LinkedIn is the fastest path to awareness in 2026. (Adam Robinson, YouTube)
+- **Personal brands > company pages.** Founder posts are more powerful and drive higher engagement than company pages. Employees are opt-in vs. push (inbound vs. reluctant). (Dave Gerhardt, YouTube; Adam Robinson, YouTube)
+- **The founder is the distribution engine.** Building a personal brand on LinkedIn is a highest-leverage distribution channel for awareness. (Adam Robinson, YouTube)
 
 ### Why Not Other Platforms?
 - Twitter: Incredibly competitive for B2B SaaS. LinkedIn is less crowded at founder level. (Adam Robinson, YouTube)
@@ -68,7 +68,7 @@
 - Majority of time on **conceptualizing and writing,** not design
 - Many ideas are tested live with clients first → translated to post
 - Graphics via Figma (not Miro anymore; more flexibility)
-- Daily posting (10 hours/week, often shifting with project load)
+- No fixed posting cadence; posts shift based on project load
 - Source: "We're posting from the hip. No detailed calendar. This forces us to stay close to market." (Pierri, YouTube)
 
 #### Using AI to Amplify, Not Replace
@@ -84,12 +84,12 @@
 ## III. Founder-Led Execution & Build-in-Public (Robinson, Sordell)
 
 ### The Founder as Credible Voice
-- **Founder = highest-leverage distribution channel.** Founder posts outperform company posts 10x+. (Dave Gerhardt, YouTube; Adam Robinson, YouTube)
+- **Founder = highest-leverage distribution channel.** Founder posts are significantly more powerful than company pages. (Dave Gerhardt, YouTube; Adam Robinson, YouTube)
 - **Vulnerability cuts through noise.** Share the hard truths: layoffs, down months, competitive threats, personal struggles.
   - Adam Robinson's monthly: "4th down month in a row, down 2.3%, we're in the woods, I don't know when this stops but I know it's not next month." (Robinson, post 3)
   - Response: "How did you even write that?" from his audience.
 - **The vulnerability barrier:** Things you'd tell your wife, maybe not employees, but you post to the internet. (Robinson, YouTube)
-- **Credibility through consistency:** $3.8M revenue by posting authentically > trying to hide struggles. (Sordell, post 3)
+- **Credibility through consistency:** £3.8M revenue by posting authentically > trying to hide struggles. (Sordell, post 3)
 
 ### Build-in-Public Formula (Adam Robinson, 5-Step Playbook)
 
@@ -284,6 +284,8 @@
 
 ## VII. Weekly Publishing System (Integrated)
 
+> **Author's Framework (Synthesized):** This calendar is synthesized from corpus practices (Pierri, Thormeier, Robinson, Reed) but is not a textual recommendation from any single expert. Each element is sourced, but the complete Monday-through-Sunday system is a suggested structure for practitioners.
+
 ### **Monday: Ideation + Planning**
 - **1-hour ideas meeting** (founder + content lead/ghost writer)
 - Brainstorm from: customer calls, team feedback, market signals, personal observations
@@ -353,7 +355,7 @@ TOTAL FOUNDER TIME: ~10–12 hours/week
 2. **Vulnerability + specificity.** "I'm down 2.3% this month, we're in the woods." >>> Generic positivity. (Robinson, post 3)
 3. **Real examples.** "Here's how Notion does X" > "Here's a framework nobody knows." (Pierri, YouTube)
 4. **Spiky opinion + super specific how.** The two formats that always perform. (Pierri, YouTube)
-5. **Founder as voice.** Founder posts → 10x better engagement than company posts. (Gerhardt, YouTube; Robinson, YouTube)
+5. **Founder as voice.** Founder posts significantly outperform company posts in engagement and reach. (Gerhardt, YouTube; Robinson, YouTube)
 6. **Systematic production.** Timers, batching, scripts, repeatable workflows > winging it. (Thormeier, post 2)
 7. **Owned channels (newsletter, podcast).** LinkedIn drives awareness; owned channels drive trust. (Gerhardt, YouTube; Reed, YouTube)
 8. **Measure audience quality, not size.** "ICP engagement 75%, unique engagers 85% post-to-post" >>> "1M followers." (Robinson, YouTube)
@@ -390,6 +392,8 @@ TOTAL FOUNDER TIME: ~10–12 hours/week
 
 ## X. 90-Day Sprint: Get to Content-Market Fit
 
+> **Author's Framework (Synthesized):** This 90-day structure is playbook architecture, not a direct corpus recommendation. Adam Robinson discusses 12-month content-market fit; this sprint is an accelerated intermediate checkpoint synthesized from corpus principles. Each task is sourced to experts, but the overall framework and timeline are author-constructed.
+
 ### **Days 1–30: Build Foundation**
 - [ ] Pick one spiky opinion that differentiates you
 - [ ] Define target audience ruthlessly (e.g., "VP Marketing at B2B SaaS, $5–$100M ARR")
@@ -424,9 +428,8 @@ TOTAL FOUNDER TIME: ~10–12 hours/week
 - Unique engagers post-to-post (85%+ = healthy audience)
 
 ### **Tier 2: Trust & Preference**
-- Newsletter email open rate (40%+ is strong for B2B)
-- Click-through rate on newsletter (10%+ indicates relevance)
-- NPS of community (50+ is strong)
+- Newsletter email open rate and click-through rate (indicates content resonance)
+- NPS of community (Gerhardt uses as indicator; higher is stronger)
 - Repeat commenters (people who engage >3x on your posts)
 
 ### **Tier 3: Business Impact**
@@ -450,7 +453,8 @@ TOTAL FOUNDER TIME: ~10–12 hours/week
 - **Trap:** Trying both simultaneously spreads you thin. Pick one lane. (Robinson vs. Sordell, different strategies)
 
 ### **Community Death Spiral**
-- Charged communities > free (money = commitment). But messaging by committee waters down voice. (Gerhardt, YouTube)
+- Charged communities > free (money = commitment). (Gerhardt, YouTube)
+- Avoid overediting and messaging by committee, which waters down authentic voice. (Devin Reed, YouTube)
 - Solution: Founder involvement (comment on everything, police low-quality) + clear niche + quality over scale
 
 ### **The Ghost Writer Handoff**
