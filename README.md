@@ -3,7 +3,7 @@
 A research project collecting recent, high-signal content from practitioners of **LinkedIn organic content strategy for B2B SaaS**, and the source-cited playbook built from it.
 
 > ### 📘 The deliverable: **[`docs/playbook.md`](docs/playbook.md)**
-> A ~9,800-word Playbook / SOP with 57 inline citations (author + link + date), including
+> A ~9,900-word Playbook / SOP (v1.1) with 58 inline citations (author + link + date), including
 > where the experts disagree and which side I take, what I rejected from my own sources,
 > my original ideas, this playbook's weaknesses, and who among the ten I would *not*
 > recommend following. Every cited URL is verified present in [`/research`](research).
@@ -91,7 +91,7 @@ Full annotations, links, and the coverage map are in [`research/sources.md`](res
 - [x] 10 experts found, vetted, and annotated (`sources.md`)
 - [x] Repo structure + collection scripts in place
 - [x] LinkedIn posts collected per author (25 posts, 7 authors)
-- [x] YouTube transcripts pulled per video (4 transcripts, ~37.8k words)
+- [x] YouTube transcripts pulled per video (4 transcripts, ~37.5k words)
 - [x] "Other" materials (reports, newsletters) gathered (1 reference document)
 - [x] Playbook outline drafted from the corpus (now superseded)
 - [x] Corpus audited against its own sources; errors corrected and logged (`playbook.md` §11)
