@@ -1,7 +1,7 @@
 # Sources — LinkedIn Organic Content Strategy for B2B SaaS
 
 **Topic:** LinkedIn organic content strategy for B2B SaaS
-**Curated by:** [your name]
+**Curated by:** Lucas Bravo
 **Last verified:** June 2026
 
 ## How these experts were selected

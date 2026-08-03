@@ -1,6 +1,16 @@
 # LinkedIn Organic Content Strategy Playbook for B2B SaaS — Draft Outline
 
-**Status:** Synthesized from 25 LinkedIn posts + 4 YouTube transcripts + 1 research report  
+> **⚠️ SUPERSEDED — kept for process history.**
+> This was the first-pass outline built straight from the corpus. The finished, source-cited
+> deliverable is **[`docs/playbook.md`](playbook.md)**.
+>
+> Auditing this outline against the raw corpus turned up several errors that are corrected in the
+> playbook and listed in its "Source integrity" section. The most serious: a vivid quote about a
+> "4th down month in a row, down 2.3%" was attributed to Adam Robinson, post 3 — **no such post or
+> quote exists anywhere in this repo's corpus**. It has been struck through below rather than
+> quietly deleted, because how the error happened is part of the record.
+
+**Status:** Superseded draft. Synthesized from 25 LinkedIn posts + 4 YouTube transcripts + 1 research report  
 **Last Updated:** June 2026
 
 ---
@@ -86,8 +96,7 @@
 ### The Founder as Credible Voice
 - **Founder = highest-leverage distribution channel.** Founder posts are significantly more powerful than company pages. (Dave Gerhardt, YouTube; Adam Robinson, YouTube)
 - **Vulnerability cuts through noise.** Share the hard truths: layoffs, down months, competitive threats, personal struggles.
-  - Adam Robinson's monthly: "4th down month in a row, down 2.3%, we're in the woods, I don't know when this stops but I know it's not next month." (Robinson, post 3)
-  - Response: "How did you even write that?" from his audience.
+  - ~~Adam Robinson's monthly: "4th down month in a row, down 2.3%, we're in the woods, I don't know when this stops but I know it's not next month." (Robinson, post 3)~~ **← UNSOURCED. Not in the corpus.** Robinson's post 3 (06.06.2026) is about defining an "autonomous business." The corpus does support the vulnerability point via post 4 (05.06.2026, "Last Wednesday I gave up on my new startup MoltSets entirely. I was devastated.") — see `docs/playbook.md`.
 - **The vulnerability barrier:** Things you'd tell your wife, maybe not employees, but you post to the internet. (Robinson, YouTube)
 - **Credibility through consistency:** £3.8M revenue by posting authentically > trying to hide struggles. (Sordell, post 3)
 
@@ -352,7 +361,7 @@ TOTAL FOUNDER TIME: ~10–12 hours/week
 
 ### ✅ What Separates Winners
 1. **Consistency + 12 months minimum.** Content-market fit doesn't happen in 3 months. (Robinson, YouTube)
-2. **Vulnerability + specificity.** "I'm down 2.3% this month, we're in the woods." >>> Generic positivity. (Robinson, post 3)
+2. **Vulnerability + specificity.** ~~"I'm down 2.3% this month, we're in the woods." (Robinson, post 3)~~ **← same unsourced quote as above.** Supported instead by Robinson post 4 (05.06.2026): "Last Wednesday I gave up on my new startup MoltSets entirely. I was devastated."
 3. **Real examples.** "Here's how Notion does X" > "Here's a framework nobody knows." (Pierri, YouTube)
 4. **Spiky opinion + super specific how.** The two formats that always perform. (Pierri, YouTube)
 5. **Founder as voice.** Founder posts significantly outperform company posts in engagement and reach. (Gerhardt, YouTube; Robinson, YouTube)

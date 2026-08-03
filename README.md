@@ -53,7 +53,7 @@ Full annotations, links, and the coverage map are in [`research/sources.md`](res
 **Final corpus state (as of June 2026):**
 
 - **25 LinkedIn posts** (100% with full text) across **7 authors**: Anthony Pierri, Adam Robinson, Finn Thormeier, Amelia Sordell, Sara Stella Lattanzio, Emily Kramer, and Wes Kao. Posts stored in `research/linkedin-posts/<author>/posts.md`.
-- **4 YouTube transcripts** (~37,800 words total) from: Anthony Pierri (13,024 words), Adam Robinson (10,129 words), Dave Gerhardt (9,248 words), and Devin Reed (5,211 words). Transcripts stored in `research/youtube-transcripts/<author>/` with full timestamps and snippets.
+- **4 YouTube transcripts** (~37,500 words total) from: Anthony Pierri (12,988 words, Jan 2025), Adam Robinson (10,128 words, May 2024), Dave Gerhardt (9,225 words, May 2026), and Devin Reed (5,184 words, Sep 2025). Transcripts stored in `research/youtube-transcripts/<author>/`.
 - **1 research reference**: Richard van der Blom's *Algorithm Insights Report 2025*, a data-driven analysis of LinkedIn algorithmic behavior based on 1.8M posts, stored in `research/other/richard-van-der-blom-algorithm-insights-report.md`.
 
 **Author representation:** All 10 experts are represented in the corpus:
@@ -61,7 +61,7 @@ Full annotations, links, and the coverage map are in [`research/sources.md`](res
 - 2 additional experts with YouTube/video transcripts (Pierri and Robinson appear in both; Gerhardt and Reed video-only)
 - 1 expert with research reference (van der Blom)
 
-**Recency:** 9/10 experts have content from June 2026; Wes Kao's posts are from 2025 but are canonical and evergreen.
+**Recency (corrected):** 6/10 experts are represented by June 2026 material — Pierri, Thormeier, Robinson, Sordell, Lattanzio and Kramer. The rest are older: Gerhardt (May 2026 video), van der Blom (Oct 2025 report), Devin Reed (Sep 2025 video) and Wes Kao (Mar–Jun 2025 posts). Two of the four video transcripts are notably old — Pierri's is Jan 2025 and Robinson's is May 2024 — so any claim drawn from them describes the platform as it was then, not necessarily now. An earlier version of this README claimed "9/10 experts have content from June 2026"; that was wrong and is corrected here.
 
 **Organization:**
 - **`research/sources.md`** — the 10 experts with verified links, primary platforms, dates, and per-source "why chosen" annotations, plus a coverage map and an explicit "considered but excluded" section.
