@@ -74,11 +74,13 @@ Before writing a single post, determine whether your buyer is asking *"why this 
 
 (source: Anthony Pierri, https://www.linkedin.com/posts/anthonypierri_ai-companies-are-your-prospects-asking-activity-7458172886483189760-6kmU — 07.05.2026)
 
-Getting this backwards is the most common failure Pierri finds in teardowns: companies in crowded categories writing outcome-level copy that never says what the product does differently. Reviewing a YC company scoring 3/5, he writes: *"they need to immediately explain at a capability level how their product is different — not just in the outcomes, but in the MECHANISM"* (source: Anthony Pierri, https://www.linkedin.com/posts/anthonypierri_i-ranked-five-y-combinator-startup-homepages-activity-7467936879464783872-nsQk — 03.06.2026).
+Getting this backwards is the most common failure Pierri finds in teardowns: companies in crowded categories writing outcome-level copy that never says what the product does differently. Reviewing a YC company scoring 3/5, he writes: *"they need to immediately explain at a capability level how their product is different — not just in the outcomes, but in the MECHANISM"*
+(source: Anthony Pierri, https://www.linkedin.com/posts/anthonypierri_i-ranked-five-y-combinator-startup-homepages-activity-7467936879464783872-nsQk — 03.06.2026).
 
 ### 1.3 Do not hide the product behind outcomes
 
-There is a widespread piece of advice — "nobody cares about your product, just talk about outcomes" — that Pierri calls out by name as bad advice when the market is mature: *"I'm guessing this company got the (BAD!) advice that 'nobody cares about your product! Just talk about outcomes you drive!'"* (source: Anthony Pierri, same post — 03.06.2026).
+There is a widespread piece of advice — "nobody cares about your product, just talk about outcomes" — that Pierri calls out by name as bad advice when the market is mature: *"I'm guessing this company got the (BAD!) advice that 'nobody cares about your product! Just talk about outcomes you drive!'"*
+(source: Anthony Pierri, https://www.linkedin.com/posts/anthonypierri_i-ranked-five-y-combinator-startup-homepages-activity-7467936879464783872-nsQk — 03.06.2026).
 
 **Recommendation:** in a category with named competitors, lead with mechanism. Outcome-only messaging is for markets that do not yet know the category exists.
 
@@ -97,7 +99,7 @@ Fletch built its content programme on two formats, which Pierri credits explicit
 
 The test for whether an opinion is actually spiky: **could a reasonable expert in your field publicly argue the opposite?** If not, it is a platitude. "Ship fast" is not spiky. "Your product managers may be silently destroying your ability to go to market" is — and Pierri runs exactly that argument, connecting Marty Cagan's four product risks to positioning damage (source: Anthony Pierri, https://www.linkedin.com/posts/anthonypierri_your-product-managers-may-be-silently-destroying-activity-7457088895650910208-a6AL — 04.05.2026).
 
-**Format B — Super specific how.** Teach one thing at a depth that would be irresponsible to give away, using named real companies rather than hypotheticals. Pierri's homepage teardown scores five real named startups 0–5 with stated criteria (source: 03.06.2026, above). Emily Kramer's LLM-crawling explainer walks through three CMS architectures with a stated verdict on each (source: Emily Kramer, https://www.linkedin.com/posts/emilykramer_framerpartner-activity-7467276044736253952-AA6A — 01.06.2026).
+**Format B — Super specific how.** Teach one thing at a depth that would be irresponsible to give away, using named real companies rather than hypotheticals. Pierri's homepage teardown scores five real named startups 0–5 with stated criteria (source: Anthony Pierri, https://www.linkedin.com/posts/anthonypierri_i-ranked-five-y-combinator-startup-homepages-activity-7467936879464783872-nsQk — 03.06.2026). Emily Kramer's LLM-crawling explainer walks through three CMS architectures with a stated verdict on each (source: Emily Kramer, https://www.linkedin.com/posts/emilykramer_framerpartner-activity-7467276044736253952-AA6A — 01.06.2026).
 
 **Recommendation:** run roughly two "super specific how" posts for every one "spiky opinion." Spiky opinions earn reach; specific how-tos earn the follow. A feed of pure contrarianism reads as a person with opinions and no job.
 
