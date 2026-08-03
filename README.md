@@ -1,6 +1,12 @@
 # LinkedIn Organic Content Strategy for B2B SaaS — Research
 
-A research project collecting recent, high-signal content from practitioners of **LinkedIn organic content strategy for B2B SaaS**, organized to support building a real playbook later.
+A research project collecting recent, high-signal content from practitioners of **LinkedIn organic content strategy for B2B SaaS**, and the source-cited playbook built from it.
+
+> ### 📘 The deliverable: **[`docs/playbook.md`](docs/playbook.md)**
+> A ~9,800-word Playbook / SOP with 57 inline citations (author + link + date), including
+> where the experts disagree and which side I take, what I rejected from my own sources,
+> my original ideas, this playbook's weaknesses, and who among the ten I would *not*
+> recommend following. Every cited URL is verified present in [`/research`](research).
 
 > Chosen topic (from the brief): **#2 — LinkedIn organic content strategy for B2B SaaS.**
 > Rationale: it's the most "meta" and directly executable option — the experts *are* LinkedIn creators, so collecting their content (the method the brief asks for) maps perfectly onto where they actually publish.
@@ -23,6 +29,8 @@ A research project collecting recent, high-signal content from practitioners of 
 │   ├── seeds/                          ← starter input files (real URLs to begin from)
 │   └── README.md                       ← how to run the scripts
 ├── docs/
+│   ├── playbook.md               ← ★ THE DELIVERABLE: source-cited Playbook / SOP
+│   ├── playbook-outline.md       ← superseded first-pass outline (kept for process history)
 │   └── git-workflow.md           ← commit-often workflow notes
 ├── requirements.txt
 ├── .env.example
@@ -85,9 +93,12 @@ Full annotations, links, and the coverage map are in [`research/sources.md`](res
 - [x] LinkedIn posts collected per author (25 posts, 7 authors)
 - [x] YouTube transcripts pulled per video (4 transcripts, ~37.8k words)
 - [x] "Other" materials (reports, newsletters) gathered (1 reference document)
-- [ ] Playbook outline drafted from the corpus
+- [x] Playbook outline drafted from the corpus (now superseded)
+- [x] Corpus audited against its own sources; errors corrected and logged (`playbook.md` §11)
+- [x] **Playbook / SOP written with full citations** → [`docs/playbook.md`](docs/playbook.md)
 
 ## Notes on method & ethics
 
 - LinkedIn's Terms of Service restrict automated scraping. The default LinkedIn workflow here is **manual/assisted collection** (you copy the post text + URL into a CSV; the script organizes it). If you choose to use a third-party posts API, that's your call to make against their ToS — it's not the default.
 - Everything stored here is for **research/analysis**. Post text is kept for study; always attribute and link back to the original author.
+- **Sources are treated as evidence, not authority.** Before writing the playbook I audited the corpus against itself and found real problems — a quote attributed to an expert that exists nowhere in the corpus, a recency claim in this README that was wrong, two posts that are undisclosed-in-repo paid placements, a headline metric its own author cannot explain, and a flagship strategy its author has never actually run. All ten findings are logged in [`docs/playbook.md` §11](docs/playbook.md#11-source-integrity-notes), including the ones that were my own mistakes.
