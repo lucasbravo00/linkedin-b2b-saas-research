@@ -47,7 +47,7 @@ Full annotations, links, and the coverage map are in [`research/sources.md`](res
 | 2 | Anthony Pierri | Fletch PMM | Positioning + post/carousel craft |
 | 3 | Finn Thormeier | Project 33 | Founder-led content *engine* (repeatable system) |
 | 4 | Adam Robinson | RB2B / Retention.com | Build-in-public founder-led growth |
-| 5 | Devin Reed | The Reeder | Content strategy (95:5), ex-Gong/Clari |
+| 5 | Devin Reed | The Reeder | Content strategy & repurposing, ex-Gong/Clari |
 | 6 | Amelia Sordell | Klowt | Founder personal-branding craft |
 | 7 | Sara Stella Lattanzio | advisor | Content-led GTM + distribution |
 | 8 | Richard van der Blom | Just Connecting | Algorithm data / evidence base |

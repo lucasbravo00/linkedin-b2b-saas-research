@@ -1,6 +1,6 @@
 # LinkedIn Organic Content Strategy for B2B SaaS — Playbook / SOP
 
-**Author:** Lucas Bravo · **Version:** 1.0 · **Date:** June 2026
+**Author:** Lucas Bravo · **Version:** 1.1 · **Date:** August 2026 (corpus collected June 2026)
 **Evidence base:** 25 LinkedIn posts, 4 video transcripts (~37,500 words) and 1 algorithm report, all in [`/research`](../research). Sources and selection logic: [`research/sources.md`](../research/sources.md).
 
 ---
@@ -15,6 +15,8 @@ Three conventions matter:
 - **`[SYNTHESIS]`** marks a recommendation I assembled from several sources where no single expert says the thing directly. The parts are cited; the assembly is mine.
 - **`[ORIGINAL]`** marks something I did not find in the corpus at all. Full reasoning in [§8](#8-my-original-ideas).
 - **`[WEAK EVIDENCE]`** marks a recommendation I am keeping despite a problem with its source — an untested claim, a paid partnership, a stale transcript, or a number I could not verify. The problem is always named on the spot.
+
+One note on quotations: the four video transcripts are auto-generated speech, so quotes from them are lightly cleaned of filler words ("like", "you know") and transcription stutters, with the wording otherwise untouched. Written posts are quoted verbatim, including their errors (marked [sic] where relevant).
 
 Where the corpus contradicts itself, I do not average the advice. I pick a side and say why ([§6](#6-where-experts-disagree)).
 
@@ -51,7 +53,7 @@ Why the gate is placed first: item 5 is the one that kills programs. Robinson is
 
 ## 1. Positioning: decide what you are known for
 
-You cannot execute a content system before you know what argument you are making. Half the failure cases in the corpus are not production failures — they are people posting competently about nothing in particular.
+You cannot execute a content system before you know what argument you are making. The failure this playbook most expects is not a production failure — it is posting competently about nothing in particular.
 
 ### 1.1 Pick one of three positioning strategies
 
@@ -95,7 +97,7 @@ Fletch built its content programme on two formats, which Pierri credits explicit
 > "We follow this lady named Wes Kao… She had these two concepts that were so game-changers for us at the very beginning… One of them she calls the super specific how, which is explaining how to do something at a great, great level of detail. […] Those two concepts, spiky opinion, super specific how, have been like a North Star since the beginning."
 > (source: Anthony Pierri, https://www.youtube.com/watch?v=0OtTo6yMmZk — 02.01.2025)
 
-**Format A — Spiky opinion.** A position that a competent peer could disagree with. Pierri's examples of the genre are Robinson's "don't take VC money" and Jason Fried's "keep your company small" — *"all these things are contrary to what most people think, and so it creates this audience."* He also notes a sub-variant that performs: making the point through humour, "poking fun at bad advice… almost like memes" (same source — 02.01.2025).
+**Format A — Spiky opinion.** A position that a competent peer could disagree with. Pierri's examples of the genre are Robinson's "don't take VC money" and Jason Fried's "keep your company small" — *"all these things are contrary to what most people think, and so it creates this audience."* He also notes a sub-variant that performs: making the point through humour, "poking fun at bad advice… almost like memes" (source: Anthony Pierri, https://www.youtube.com/watch?v=0OtTo6yMmZk — 02.01.2025).
 
 The test for whether an opinion is actually spiky: **could a reasonable expert in your field publicly argue the opposite?** If not, it is a platitude. "Ship fast" is not spiky. "Your product managers may be silently destroying your ability to go to market" is — and Pierri runs exactly that argument, connecting Marty Cagan's four product risks to positioning damage (source: Anthony Pierri, https://www.linkedin.com/posts/anthonypierri_your-product-managers-may-be-silently-destroying-activity-7457088895650910208-a6AL — 04.05.2026).
 
@@ -153,7 +155,7 @@ Wes Kao is the only source in the corpus operating at sentence level. Two rules 
 
 (source: Wes Kao, https://www.linkedin.com/posts/weskao_trust-me-ive-done-this-many-times-activity-7325892206081318913-7dVf — 07.05.2025)
 
-This second rule is the highest-value item in the entire corpus for a founder with no audience yet, and it is why credential-led posts underperform reasoning-led posts. You do not have authority yet. You do have logic.
+This second rule is the highest-value item in the entire corpus for a founder with no audience yet, and it is the reason this playbook prefers reasoning-led posts over credential-led ones. You do not have authority yet. You do have logic.
 
 ---
 
@@ -165,7 +167,7 @@ Fletch's cost per post, stated plainly by Pierri and confirmed on the record in 
 
 The majority of that time goes to thinking and writing, not design.
 
-**Recommendation:** budget 10 founder-hours per week, or reduce cadence until the arithmetic works. Do not budget 2 hours per week and expect Fletch's results — this is the most common way the program silently fails.
+**Recommendation:** budget 10 founder-hours per week, or reduce cadence until the arithmetic works. Do not budget 2 hours per week and expect Fletch's results — that mismatch is how the program fails silently, with quality eroding long before anyone decides to stop.
 
 ### 3.2 Schedule capture, not creation `[SYNTHESIS]`
 
@@ -248,7 +250,7 @@ Reed's system: record once, distribute many times, on a fixed turnaround.
 His phase-one plan was pure repurposing — "three shorts per day for 3 months on YouTube, Instagram and TikTok" — drawn from an existing library of roughly 15 hours of produced material.
 (source: Devin Reed, https://www.youtube.com/watch?v=df3t4BNBRmI — 25.09.2025)
 
-Reed also flags a counterintuitive winner: a blooper reel from one of his videos outperformed the original by "three, four, five times." He credits the explanation to his then-advisor Chris Lockhead — *"the content about the content is the stuff people want"* (same source — 25.09.2025).
+Reed also flags a counterintuitive winner: a blooper reel from one of his videos outperformed the original by "three, four, five times." He credits the explanation to his then-advisor "Chris Lockhead" (the transcript's spelling — most likely Christopher Lochhead, the category-design author): *"the content about the content is the stuff people want"* (source: Devin Reed, https://www.youtube.com/watch?v=df3t4BNBRmI — 25.09.2025).
 
 ### 4.4 Own the endpoint
 
@@ -296,7 +298,7 @@ Robinson's stated numbers: roughly 75% of his audience matches his ICP, and abou
 
 ### 5.4 Set a kill condition in advance
 
-Nothing in the corpus specifies what result would justify stopping. Given a twelve-month commitment ([§0](#0-before-you-start-the-channel-fit-gate)), write down the failure condition before month one — for example: *"by month 9, fewer than 2 inbound conversations per month from classified-ICP individuals."* Decide the number while you are still objective about it.
+**`[ORIGINAL]`** — a corollary of the Channel Fit Gate ([§8.1](#81-the-channel-fit-gate)). Nothing in the corpus specifies what result would justify stopping. Given a twelve-month commitment ([§0](#0-before-you-start-the-channel-fit-gate)), write down the failure condition before month one — for example: *"by month 9, fewer than 2 inbound conversations per month from classified-ICP individuals."* Decide the number while you are still objective about it.
 
 ---
 
@@ -486,7 +488,7 @@ Written to be usable against me.
 
 **4. My only quantitative foundation is secondhand.** Every algorithm figure in [§4.1](#41-format-choice-is-a-reach-decision) — the 6.60% carousel engagement, the −18.8% link penalty, the reach and follower declines — reaches me through a 17-line summary in this repo, not van der Blom's actual report. I did not read the primary source. If that summary misstates the report, this playbook inherits the error silently.
 
-**5. Two of four transcripts are old enough to be describing a different platform.** Robinson's is May 2024 and Pierri's is January 2025. LinkedIn's own reported reach dynamics changed materially over that period, and both men's claims about what works are anchored to conditions I cannot confirm still hold. Where their claims are about human behaviour they probably travel; where they are about the algorithm they may not.
+**5. Two of four transcripts are old enough to be describing a different platform.** Robinson's is May 2024 and Pierri's is January 2025. Reported reach dynamics changed materially over that period ([§4.1](#41-format-choice-is-a-reach-decision)), and both men's claims about what works are anchored to conditions I cannot confirm still hold. Where their claims are about human behaviour they probably travel; where they are about the algorithm they may not.
 
 **6. The operating cadence is invented.** The 10-hours-a-week budget in [§3.1](#31-budget-the-real-number) is Fletch's disclosed number, but the weekly structure built around it is assembled by me from several sources and has never been run by anyone. Treat it as a starting configuration, not a validated system.
 
@@ -548,14 +550,14 @@ Problems found auditing the corpus against its own sources. Several were errors 
 | 6 | **Thormeier's flagship strategy is explicitly untested** — "one strategy I'm DYING to try," "no large B2B company is actually doing this." Presented in my earlier outline without that qualifier. | [§4.2](#42-reach-the-buying-committee-not-just-the-buyer), [§6.4](#64-disagreement-the-founders-own-voice-vs-ghost-produced-executive-content) |
 | 7 | **Lattanzio's own caveat was being dropped.** The 46%/43%/112% lifts come from a study of *paid* LinkedIn content; she says so and marks the organic extension as belief. | [§5.1](#51-accept-that-attribution-will-not-work-then-measure-anyway) |
 | 8 | **Two ideas are misattributed in circulation.** "Content-market fit" is credited by Robinson to Devin Reed, and "the content about the content" is credited by Reed to Chris Lockhead. Both are cited to their originators here. | [§0](#0-before-you-start-the-channel-fit-gate), [§4.3](#43-repurpose-from-a-hero-asset-on-a-real-clock) |
-| 9 | **`sources.md` attributes a "95:5 rule" and a "Content Island" concept to Devin Reed.** Neither phrase appears anywhere in the collected corpus. Nothing in this playbook cites either. | Noted; not used |
+| 9 | **`sources.md` attributes a "95:5 rule" and a "Content Island" concept to Devin Reed.** Neither phrase appears anywhere in the collected corpus, and the README's expert table echoed "(95:5)" until v1.1. Nothing in this playbook cites either. | Noted; not used. README wording corrected |
 | 10 | **`sources.md` had an unfilled `[your name]` placeholder** in the byline of the submitted research. | Fixed |
 
 ---
 
 ## 12. Citation index
 
-Every source cited above, with dates. Full annotations in [`research/sources.md`](../research/sources.md).
+Every source cited or referenced above, with dates. Full annotations in [`research/sources.md`](../research/sources.md). (Two entries — Kramer's billboard ride-along and Robinson's launch posts — are referenced in [§7.4](#74-rejected-kramers-vendor-recommendation-keep-the-method) and [§10.3](#103-follow-but-apply-a-discount-adam-robinson) by date or count rather than quoted directly.)
 
 **Anthony Pierri — Fletch PMM**
 - Positioning strategies — [post](https://www.linkedin.com/posts/anthonypierri_people-overcomplicate-positioning-there-activity-7468383258863423488-Phf2) — 04.06.2026
@@ -609,4 +611,4 @@ Every source cited above, with dates. Full annotations in [`research/sources.md`
 
 ---
 
-*Playbook v1.0 — Lucas Bravo, June 2026. Corrections welcome; [§11](#11-source-integrity-notes) is the log of the ones already made.*
+*Playbook v1.1 — Lucas Bravo, August 2026. Corrections welcome; [§11](#11-source-integrity-notes) is the log of the ones already made.*
